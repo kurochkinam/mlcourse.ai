@@ -22,7 +22,9 @@ This is the list of published articles on medium.com [:uk:](https://medium.com/o
 10. Gradient Boosting [:uk:](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-10-gradient-boosting-c751538131ac) [:ru:](https://habrahabr.ru/company/ods/blog/327250/), [Kaggle Kernel](https://www.kaggle.com/kashnitsky/topic-10-gradient-boosting)
 
 ### Assignments
-Full assignments are announced each week in a new run of the course (October 1, 2018). Meanwhile, you can pratice with demo versions. Solutions to both demo and full versions will be discussed in the upcoming run of the course. 
+1. Exploratory data analysis of Olympic games with Pandas, [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_fall2018/assignment1_pandas_olympic.ipynb). Deadline: **October 14, 20:59 CET**
+
+Demo assignments, just for practice, not to be accounted in rating
 1. Exploratory data analysis with Pandas, [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_demo/assignment01_pandas_uci_adult.ipynb?flush_cache=true), [Kaggle Kernel](https://www.kaggle.com/kashnitsky/assignment-1-pandas-and-uci-adult-dataset)
 2. Analyzing cardiovascular disease data, [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_demo/assignment02_analyzing_cardiovascular_desease_data.ipynb?flush_cache=true), [Kaggle Kernel](https://www.kaggle.com/kashnitsky/assignment-2-analyzing-cardiovascular-data)
 3. Decision trees with a toy task and the UCI Adult dataset, [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_demo/assignment03_decision_trees.ipynb?flush_cache=true), [Kaggle Kernel](https://www.kaggle.com/kashnitsky/assignment-3-decision-trees)
@@ -45,8 +47,7 @@ Throughout the course we are maintaining a student rating. It takes into account
 Discussions between students are held in the **#mlcourse_ai** channel of the OpenDataScience Slack team. Fill in [this form](https://drive.google.com/open?id=1_pDNuVHwBxV5wuOcdaXoxBZneyAQcqfOl4V2qkqKbNQ) to get an invitation. The form will also ask you some personal questions, don't hesitate :wave:
 
 ### Wiki Pages
-- [Prerequisites: Python, math and DevOps](https://github.com/Yorko/mlcourse_open/wiki/Prerequisites:-Python,-math-and-DevOps) – how to get prepared for the course
-- [Software requirements and Docker container](https://github.com/Yorko/mlcourse_open/wiki/Software-requirements-and-Docker-container) – this will guide you through installing all necessary stuff for working with course materials
+- [Prerequisites: Python, math, software, and DevOps](https://github.com/Yorko/mlcourse.ai/wiki/Prerequisites:-Python,-math,-software,-and-DevOps) – how to get prepared for the course
 - [1st session in English: all activities accounted for in rating](https://github.com/Yorko/mlcourse_open/wiki/1st-session-in-English:-all-activities-accounted-for-in-rating)
 
 *The course is free but you can support organizers by making a pledge on [Patreon](https://www.patreon.com/ods_mlcourse)*
